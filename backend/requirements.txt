@@ -1,0 +1,25 @@
+fastapi[standard]
+uvicorn[standard]
+python-dotenv
+
+# LangChain core, Pinecone, and integrations
+langchain
+langchain-huggingface
+langchain-pinecone
+langchain-text-splitters
+
+# Pinecone SDK (official, required by langchain-pinecone)
+pinecone
+
+# PyPDF for PDF document loading
+pypdf
+
+# Hugging Face ecosystem
+transformers
+sentence-transformers
+torch
+accelerate
+
+# Optional (ensure file uploads work for the FastAPI API)
+python-multipart
+

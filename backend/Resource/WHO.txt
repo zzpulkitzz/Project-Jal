@@ -1,0 +1,659 @@
+Compendium of WHO
+and other UN guidance on health and environment
+Chapter 3: WASH
+                WHO/HEP/ECH/EHD/21.02
+© World Health Organization 2021.
+Some rights reserved. This work is available under the CC BY-NC-SA 3.0 IGO licence.
+Suggested citation. WASH. In: Compendium of WHO and other UN guidance on health and environment. Geneva: World Health Organization; 2021 (WHO/HEP/ECH/EHD/21.02)
+ 
+Contents
+3.1 Introduction ..................................................................................................... 1
+3.2 Water................................................................................................................2 3.2.1 Drinking-water..................................................................................................................2 3.2.2 Recreationalwater............................................................................................................8
+3.3 Sanitation ....................................................................................................... 13
+3.4 Personal hygiene............................................................................................. 17
+3.1 Introduction
+Safe WASH are crucial to human health and well-being. Safe WASH are not only a prerequisite to health, but contribute to livelihoods, school attendance and dignity and help to create resilient communities living in healthy environments (1).
+Inadequate or unsafe WASH may cause disease through a range of interrelated transmission pathways, which include among others:
+• ingestion of water that is contaminated with faeces or chemicals
+• inadequate personal hygiene which may be linked to lack of water
+• contact with pathogen-containing water
+• proximity to water bodies where disease vectors proliferate (2).
+An estimated 829 000 diarrhoeal disease deaths were estimated to be caused by unsafe WASH in
+2016. Other diseases caused by inadequate WASH include among others acute respiratory infections, malnutrition, malaria, soil-transmitted helminth infections, schistosomiasis and trachoma (3). In addition, environmental enteropathy, a chronic subclinical inflammatory condition of the gut, which is related to faecal contamination of the environment, might be a key mediating pathway for adverse effects on child nutritional and developmental status from inadequate WASH (4, 5).
+3. WASH
+1
+
+Compendium of WHO and other UN guidance on health and environment
+   3.2 Water 3.2.1 Drinking-water
+This section focuses on water that is used for drinking, though safe water is essential also for other domestic purposes and food production (6). Safe water used for recreational purposes is treated in section 3.2.2 Recreational water.
+Overview
+As of 2020, 26% of the worldwide population lack safely managed drinking-water services. Approximately 144 million people still collect drinking-water directly from surface water. Contaminated drinking-water is estimated to cause 485 000 diarrhoeal deaths each year, in addition to malnutrition and many other diseases (3, 7, 8).
+Note: A safely managed drinking-water service is defined as being accessible on premises, available when needed and free from contamination.
+Most countries monitor access to safe water and progress in improving it. This is usually performed through surveys of households, schools and health care facilities, as well as through routine water quality surveillance.
+At national and global levels, SDG monitoring includes indicators related to drinking-water (9):
+• SDG indicator 3.9.2: Mortality rate attributed to unsafe water, unsafe
+sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and
+Hygiene (WASH) services).
+• SDG indicator 6.1.1: Proportion of population using safely managed drinking-
+water services.
+WHO and UNICEF, through the Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (JMP), serve as custodian agencies for the global monitoring of these WASH indicators in the framework of measuring progress towards the SDGs (1).
+      What is the situation in terms of drinking-water supply and drinking- water quality in my country?
+      2
+
+3. WASH
+  What is the level of drinking-water quality and safety we want to achieve?
+WHO produces guidelines for drinking-water quality (GDWQ) that form the basis for national drinking-water regulations and standards (10). The GDWQ cover a broad range of chemicals, pathogenic bacteria, viruses and parasites, radioactive substances and aspects of taste, odour and appearance that can affect drinking-water quality. The GDWQ provide health-based targets for over 200 parameters.
+WHO guidance on water quality parameters and safe limits is presented within a broader framework for safe drinking-water, which addresses the following.
+• Health-based targets: These include parameters with associated
+limits (such as those included in drinking-water quality regulations and standards). Health-based targets that include chemical guideline values in the GDWQ can be used to establish country-specific targets. Guideline values generally represent a concentration of a parameter in drinking- water that does not represent a significant risk to health over a lifetime of consumption.
+• Water safety plans (WSPs): These are part of a comprehensive risk assessment and risk management approach that encompass all steps of water supply from catchment to consumer.
+• Independent surveillance: This refers to the continuous and vigilant public health assessment and review of drinking-water supplies to confirm effective risk management and safety.
+        Guidance
+Sector principally involved in planning/ implementation
+Level of implementation
+Instruments
+     Policies and actions
+   Water/sanitation
+National
+          1. Develop or update drinking-water quality regulations and standards (10, 11).
+National (or subnational) drinking-water regulations and standards should be based on the GDWQ, incorporating the three components of the framework for safe drinking-water. Regulations should be customized to consider local needs, priorities and capacities, as well as the economic and health benefits resulting from improved drinking-water supplies.
+Suggested practical steps for developing/revising drinking-water quality regulations and standards are:
+• identify the lead institution
+• define roles to support the process
+• define objectives and scope of the regulations and standards • review existing regulations and standards
+• gather baseline data for analysis
+• prepare the separate sections of the regulations and
+standards
+• ensure peer review.
+These steps are further detailed in Developing drinking-water quality regulations and standards (11), with a particular focus on taking a risk-based approach to establishing parameters, limits and monitoring requirements.
+Regulation
+      3
+
+Compendium of WHO and other UN guidance on health and environment
+  Guidance
+  Sector principally involved in planning/ implementation
+    Level of implementation
+   Instruments
+  Water/sanitation
+  National
+     Water/sanitation
+           National; community
+      2. Protect drinking-water supplies using WSPs (12).
+Proactive management of risks to drinking-water supplies through WSPs should be promoted at national (or subnational) level, with related support (e.g. capacity building) provided to drinking-water suppliers.
+A WSP involves the following steps.
+(a) Assemble the team.
+(b) Describe the water supply system.
+(c) Identify hazards and hazardous events and assess the risk.
+(d) Determine and validate control measures and reassess the risk. (e) Develop,implementandmaintainanupgrade/improvementplan. (f) Define monitoring of control measures.
+(g) Verify the effectiveness of the WSP.
+(h) Prepare management procedures.
+(i) Developsupportingprogrammes.
+(j) Plan and carry out periodic review of the WSP. (k) Revise the WSP following an incident.
+These WSP steps are further detailed in the Water safety plan manual: step-by-step risk management for drinking-water suppliers (13) with an alternative six-task approach for small water supply systems (14) (see also the “Special considerations for small water supply systems” section below.) Guidance on the systematic consideration of women and disadvantaged groups through the WSP process in order to ensure equitable benefit is also available (15). Additional practical guidance on WSPs is available in the various resources outlined in Water safety planning: a roadmap to supporting resources (10).
+Guidance on applying the WSP approach to identify and manage the impacts of climate variability and change on drinking-water systems is presented in Chapter 7. Climate change.
+3. Confirm water safety through independent surveillance (10).
+Surveillance provides independent verification that drinking-water supplies are safe and water suppliers are proactively managing risks. Surveillance includes:
+• direct testing to confirm compliance with drinking-water
+quality standards;
+• WSP auditing or sanitary inspection to confirm effective risk
+management;
+• review of supplier monitoring records to confirm that
+compliance monitoring practices and results are in accordance with requirements in drinking-water quality standards.
+Guidance on surveillance is provided in Chapter 5 of the
+GDWQ and volume 3 of the GDWQ: surveillance and control of community supplies (10, 16). Guidance on establishing WSP audit schemes and carrying out audits is provided in A practical guide to auditing water safety plans (17). An associated training package on WSP auditing is available (18).
+Other management and control
+       Assessment and surveillance
+      4
+
+3. WASH
+        Guidance
+Sector principally involved in planning/ implementation
+Level of implementation
+Instruments
+       Water/sanitation
+National
+            Water/sanitation
+National
+            Water/sanitation Health
+National; community
+Universal health coverage
+ Note: For additional publications related to drinking-water safety, see Supporting publications to the guidelines for drinking-water quality (18).
+ 4. For the management of chemicals in drinking-water, including cyanotoxins, the key components of the GDWQ framework for
+safe drinking-water should be applied. This includes selecting which priority parameters to include in drinking-water quality regulations (and associated limits), taking management actions
+to reduce concentrations of these contaminants as part of WSPs, and monitoring as part of surveillance. Refer to the GDWQ (10) and Developing drinking-water quality regulations and standards (11).
+The WSP approach can be adapted to manage pharmaceuticals and microplastics by preventing their entry, or the entry of their precursors, in the water cycle. This could include improved recycling programmes and minimizing inappropriate disposal. These contaminants have the potential to reach drinking-water, although the concentrations generally found in drinking-water or its sources are unlikely to pose a risk to human health. Therefore, routine monitoring of these contaminants is not necessary and concerns over these emerging contaminants should not divert resources from known dangers, including removing of microbial pathogens (19).
+5. For the management of radioactivity in drinking-water in non-emergency situations the key components of the GDWQ framework for safe drinking-water should be applied, as described above.
+Radionuclides in drinking-water generally present a very low health risk compared to microbial pathogens and chemicals. Radiation exposure through drinking-water in normal situations mostly results from naturally occurring rather than human-made radionuclides. In contrast, following radiation emergencies involving radioactive release, human-made radionuclides may represent the major source of exposure. These factors should be considered for establishing criteria included in drinking- water quality regulations, management actions and surveillance activities (see section 6.5 Radioactivity in food and drinking-water and 6.6 Radiological emergencies) (10, 20-22).
+6. Include safe drinking-water, sanitation and hygiene in relevant health policies, strategies and programmes (23).
+Other management and control
+      Other management and control
+        Regulation
+5
+
+Compendium of WHO and other UN guidance on health and environment
+        Guidance
+Sector principally involved in planning/ implementation
+Level of implementation
+Instruments
+    Special considerations for small water supply systems
+   Water/sanitation
+National; community
+            Water/sanitation
+National; community
+            Water/sanitation
+Community; schools/child- care settings; health care; workplace
+            Awareness-raising and capacity building
+Water/sanitation
+Community
+   Health Education
+Community; schools/child- care settings; health care; workplace
+Universal health coverage
+           7. Consider the special needs, challenges and opportunities for small water supply systems when applying the framework for safe drinking-water (10).
+Small water supply systems tend to share a common set of characteristics that set them apart from other systems. For instance, there are often great numbers of systems covering a large geographic spread (including remote locations); limited technical and financial support; reliance on undertrained and/or unpaid staff; and limited surveillance oversight and support.
+Developing drinking-water quality regulations and standards (11) offers considerations for small systems and other settings with limited resources, and water safety planning for small community water supplies (14) presents a simplified six-task WSP approach
+for the small systems context (which is an abridged version of the 11-module approach outlined in point 2 above). See volume 3 of the GDWQ: surveillance and control of community supplies (16) and the associated sanitary inspection forms for further guidance (24).
+8. Consider water safety improvements within the context of broader WASH efforts.
+As those responsible for managing or overseeing small systems may also be responsible for hygiene and sanitation, it is important to consider WASH improvements holistically.
+9. Provide sufficient and safe drinking-water in communities, schools, health care facilities, workplaces and public places (23, 25-27).
+10. Support and provide point-of-use/household drinking-water treatment and safe storage as an interim solution for safer drinking-water while longer-term infrastructure improvements are being planned and implemented (23).
+Further guidance and detail can be found in the following documents (28, 29).
+11. Promote the use of safe drinking-water in communities, schools, health care facilities, workplaces and public places (23, 25-27).
+Regulation
+      Regulation; infrastructure, technology and built environment
+Infrastructure, technology and built environment
+Infrastructure, technology and built environment
+Information, education and communication
+                  6
+
+3. WASH
+        Guidance
+Sector principally involved in planning/ implementation
+Level of implementation
+Instruments
+       Health Education
+Community; schools/child- care settings; health care; workplace
+Universal health coverage
+          12. Promote point-of-use/household drinking-water treatment and safe storage as an interim solution for safer drinking- water until longer-term infrastructure improvements can be implemented (23).
+Selected tools
+Information, education and communication
+        WHO 2020: WHO sanitary inspection (SI) forms support water safety planning and/or surveillance by presenting a simple set of questions designed to assess key sanitary risks to drinking-water supplies.
+SI packages – which include an updated SI form, technology fact sheet and management advice
+sheet – have been developed for various water supply system technologies (24). SI forms for additional technologies are included in volume 3 of the GDWQ: surveillance and control of community supplies (16).
+WHO 2017: Water safety planning: a roadmap to supporting resources (10)
+This overview includes publications by WHO and partners and provides guidance on various aspects of water safety planning, such as development, implementation, training, advocacy and auditing.
+WHO/Neglected Tropical Disease NGO Network 2020: WASH and health working together: a ‘how to’ guide for NTD programmes (30)
+This is a toolkit to address WASH and neglected tropical diseases.
+UNICEF 2017: Thirsting for a future: water and children in a changing climate (31)
+    7
+
+Compendium of WHO and other UN guidance on health and environment
+ 3.2.2 Recreational water
+Overview
+Recreational use of fresh and coastal waters as well as waters in swimming pools and similar environments can deliver important benefits to health and well-being such as physical activity, relaxation, cultural and religious use. Yet, recreational water use can pose risks to health through exposure to microbial and chemical pollution as well as physical risk such as Drowning and injury.
+Most high-income countries and some middle-income countries monitor safety of recreational water sites with the purpose of identifying and addressing pollution sources and providing water users with timely information on whether it is safe to enter.
+At national and global levels, SDG monitoring includes indicators related to, but not directly assessing, water quality of water bodies used for recreation (9).
+• SDG indicator 6.3.1: Proportion of domestic and industrial wastewater flow
+safely treated.
+• SDG indicator 6.3.2: Proportion of bodies of water with good ambient water
+quality.
+WHO and UN-HABITAT serve as custodian agencies monitoring that wastewater is safely treated globally and UNEP is the custodian agency for monitoring ambient water quality globally (32).
+WHO produces guidelines for recreational water in two volumes: Guidelines on recreational water quality. Volume 1: coastal and fresh waters and Guidelines for safe recreational water environments. Volume 2: swimming pools and similar environments (33, 34). These guidelines focus on water quality-related health hazards for the general population engaging in all type of recreational water use involving contact with water and beach sand.
+WHO guidance on recreational water quality parameters and safe limits is presented within a broader recreational water safety framework including three core recommendations for coastal and fresh water (as listed in Tables 3.1–3.3).
+Table 3.1. Guideline values for microbial quality of coastal and fresh recreational waters
+A ≤ 40
+B 41–200
+C 201–500
+D > 500
+Categories A–D: Based on risk evaluation, e.g. estimated risk of gastrointestinal illness per exposure: A: <1%, B: 1–5%, C: 5–10%, D: >10%.
+a See (33) for further information on combining categories with sanitary surveys for beach classification.
+Source: Adapted from (33).
+    What is the status of recreational water quality in my country?
+ What is the level of recreational water safety we want to achieve?
+    Microbial water quality assessment categoriesa
+ Intestinal enterococci (95th percentile value per 100 ml water sample)
+  8
+
+  Table 3.2. Indicators and guideline values for harmful algal blooms in freshwater
+3. WASH
+  Cyanobacterial biomass indicator values
+  Cyanotoxin guideline values, recreation (cyanotoxin type)
+   Vigilance level Alert level 1 Alert level 2
+1–4 mm3/L biovolume or 1–12 μg/L chlorophyll a (with dominance of cyanobacteria)
+4–8 mm3/L biovolume or 12–24 μg/L chlorophyll a (with dominance of cyanobacteria)
+Scum or transparency < 0.5–1 m
+–
+24 μg/La (microcystin) 6 μg/La (cylindrospermopsin) 60 μg/L (anatoxin-a) 30 μg/L (saxitoxin)
+            a Provisional value.
+Source: Adapted from (33).
+Table 3.3. Guidelines and operational monitoring limits for other hazards
+ Hazard category
+Guideline values or operational monitoring limit
+Beach sand Chemicals
+Other microbial hazards
+Provisional guideline value of 60 CFU/g of intestinal enterococci.
+Chemical concentration 20 times higher than the guideline value in the WHO Guidelines for drinking-water quality as a screening approach.
+No dose–response relationship established for these organisms to support guideline values. Monitor environmental conditions favouring proliferation of organismsa.
+ Nuisance aspects
+CFU: colony forming units.
+No guideline value. Operational monitoring via visual inspection and data collection on priority aesthetic aspects of concern.
+a Examples of bacteria: Aeromonas spp., Leptospira spp., Pseudomonas aeruginosa, Staphylococcus aureus, noncholera vibrio cholerae; examples of free-living amoebae: Acanthamoeba spp., Naegleria fowleri; examples of Helminth: Schistosoma mansoni, S. intercalatum, S. guineensis, S. mekongi, S. japonicum, S. haematobium, Trichobilharzia spp.)
+Source: Adapted from (33).
+Swimming pools and related water environments
+Volume 2 of the WHO guidelines on safe recreational water environments (34) provide guideline values for chlorine- and bromine-based disinfectants, chlorine dioxide, ozone (in air), pH and operational guidelines for microbial testing. The WHO guidelines are intended to form the basis for national and international regulations and standards.
+Guidance to create safe environments to prevent drownings is provided in section 9.3.1 Drownings.
+ 9
+
+Compendium of WHO and other UN guidance on health and environment
+        Guidance
+Sector principally involved in planning/ implementation
+Level of implementation
+Instruments
+     Coastal and fresh water environments: policies and actions
+   Health Environment
+National
+            Health Infrastructure Environment
+Community
+          1. Set national health-based targets for recreational water bodies (33).
+• Express targets as microbial water quality standards for
+sources of faecal contamination based on WHO guideline
+values (see Table 3.1).
+• Develop additional water quality standards for cyanotoxins
+or biovolume indicators from harmful algal blooms based on
+WHO guideline values (see Table 3.2).
+• Consider additional standards based on provisional guideline
+values for beach sand and chemicals, operational monitoring limits for other microbial hazards and aesthetic and nuisance aspects, if justified by national or local risk assessment and resource availability for monitoring and control measures (see Table 3.3).
+2. Develop and implement recreational WSPs for priority bathing sites (33). Steps for developing an RWSP include the following.
+a. Identify the lead entity and assemble a team to develop the
+recreational WSP. This includes identifying the lead entity and key stakeholders and forming a coordination committee that includes relevant stakeholders with clear roles and responsibilities.
+b. Undertake a system assessment for each existing priority recreational water site (or group of sites within the same catchment) and before developing new sites.
+• Describe the recreational water environment – by combining
+a sanitary survey of adjacent land and water drainage with an initial microbial quality assessment to assign a beach classification.
+• Identify hazards and hazardous events, considering seasonality and predicted local climate change scenarios.
+• Assess and prioritize the risks.
+• Identify existing control measures, assess risks and prioritize
+risks that are insufficiently controlled.
+• Establish plans, with sustainable funding, for managing
+currently effective control measures.
+• Establish improvement plans, with sustainable funding, for
+incrementally implementing control measures where priority
+risks are insufficiently controlled.
+c. Conduct and maintain system monitoring.
+• Establish and implement an operational monitoring regime for priority control measures in the catchment to give rapid warning when operational limits are exceeded.
+• Establish and implement corrective actions for exceedances of operational limits.
+• Conduct ongoing verification monitoring of water quality.
+• Establish procedures to verify effectiveness of the
+recreational WSP.
+Regulation
+      Infrastructure, technology and built environment;
+information, education and communication;
+other management and control
+      10
+
+d. Establish coordinated management and communication strategies to support effective pollution control and public communications.
+• Document management procedures for normal and incident
+conditions, including incident response plans.
+• Where feasible, develop predictive models to support timely
+communication to water users.
+• Develop supporting programmes – for example, training,
+research and development, standard operating procedures (SOPs), quality control activities, procedures for visual inspections, sample collection and equipment calibration.
+• Establish communication protocols between responsible organizations and agencies.
+• Establish mechanisms for communication with users and managers of the site.
+e. Review and update recreational WSPs. This includes meeting periodically and after incidents to review performance of plans, including operational monitoring and water quality results, an updated sanitary survey and beach classification, the occurrence of incidents, communication and complaints; if necessary, update the risk assessment.
+More information is provided in the Guidelines on recreational water quality. Volume 1: coastal and fresh waters (33).
+3. Conduct ongoing surveillance and risk communication of recreational water-related illness (33).
+• Collect, analyse and interpret health-related data on
+suspected or confirmed illness in humans and/or animals, and systematically document outbreaks associated with recreational waters.
+• Provide the public with timely information about the status of health risks, and provide water users with advisory warnings before, during and after a public health incident, in conjunction with recreational WSPs.
+4. Develop a pool safety plan for swimming pools and similar environments (34). Points to consider include:
+• adequate water treatment including filtration and disinfection,
+pool hydraulics, addition of fresh water, cleaning and ventilation.
+• Provision and encouragement of the use of showers and toilets
+• Monitoring of turbidity, residual disinfectant and pH.
+Note: The WHO guidelines for safe recreational water environments (volume 2) provide operational guidelines for microbial testing (34).
+5. Ensure adequate clarity of pool water to minimize injury hazard (e.g. through filtration and pool design) (34).
+Assessment and surveillance
+3. WASH
+        Guidance
+Sector principally involved in planning/ implementation
+Level of implementation
+Instruments
+                   Health
+National; community
+ Swimming pools, spas and similar water environments: policies and actions
+   Health Environment
+National; community
+            Health Infrastructure Recreation
+Community; national
+                Assessment and surveillance
+Infrastructure, technology and built environment; other management and control
+            11
+
+Compendium of WHO and other UN guidance on health and environment
+        Guidance
+Sector principally involved in planning/ implementation
+Level of implementation
+Instruments
+       Health Recreation Infrastructure
+Community; national Universal health coverage
+          6. Provide rescue services and access to emergency response/ services. Pre-set maximum water temperatures to < 40°C (34).
+Examples for rescue services and emergency response include: first aid availability, accessible emergency shut-off for pool water outlet pumps, telephones with emergency numbers, properly trained and equipped lifeguards, emergency accessibility.
+Selected tools
+WHO 2021: Guidelines on recreational water quality. Volume 1: coastal and fresh waters (33)
+WHO 2006: Guidelines for safe recreational water environments. Volume 2: swimming pools and similar environments (33, 34)
+Bartram J, Rees G, editors (2000): Monitoring bathing waters: a practical guide to the design and implementation of assessments and monitoring programmes (35)
+Infrastructure, technology and built environment; other management and control
+          12
+
+3. WASH
+ 3.3 Sanitation
+Overview
+Nearly half the world’s population lacked safely managed sanitation services in 2020. Such deficiencies cause 432 000 diarrhoeal disease deaths globally each year (2016), and also lead to soil-transmitted helminth infections, malnutrition and numerous other diseases (3, 7, 8). Poor sanitation contributes to the spread of antimicrobial resistance and negatively affects broader well-being (36).
+Benefits of improving sanitation extend well beyond reducing the risk of diarrhoea and other diseases and include among others increased dignity and safety, particularly among women and girls, and increased school attendance.
+Evidence suggests that simply improving sanitation facilities might not lead to the desired health impacts but needs to be accompanied with the safe disposal of children’s and animal faeces, and the cessation of open defecation (37).
+Most countries are monitoring progress on access to safe sanitation. This is usually performed through surveys of households, and also schools and health care facilities.
+At national level, SDG indicators also monitor progress related to sanitation (9):
+– SDG indicator 3.9.2: Mortality rate attributed to unsafe water, unsafe
+sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and
+Hygiene for All (WASH)).
+– SDG indicator 6.2.1: Proportion of population using safely managed sanitation
+services, including a handwashing facility with soap and water.
+– SDG indicator 6.3.1: Proportion of domestic and industrial wastewater flow
+safely treated.
+Chapters 3 and 4 of the WHO Guidelines on sanitation and health provide definitions of safely managed sanitation for all steps of the chain (toilet, containment, conveyance, treatment, disposal/end use) and good practice advice on translating definitions into national targets, policies, regulations and monitoring systems.
+Safe sanitation systems should be designed and used to separate human excreta from human contact at all steps of the sanitation service chain from toilet capture and containment, through emptying, transport, treatment (in- situ or offsite) and final disposal or end use.
+The WHO Guidelines on sanitation and health (38) provide guidance to maximize the health impact of sanitation interventions including preventing infections and maintaining mental and social well-being through four main recommendations: i) ensuring universal access to and use of toilets that safely contain excreta among entire communities, institutions, workplaces and public places; ii) ensuring universal access to safe systems along the entire sanitation service chain based on context-specific solutions and local health risk assessment to protect the health of individuals, communities and workers; iii) integrating sanitation into regular local government-led planning and service provision; and iv) ensuring the health sector fulfil core functions to ensure sanitation interventions effectively protect public health.
+   Who has inadequate sanitation in my country?
+ What do we want to achieve in terms of sanitation services to protect people’s health?
+      13
+
+Compendium of WHO and other UN guidance on health and environment
+        Guidance
+Sector principally involved in planning/ implementation
+Level of implementation
+Instruments
+     Policies and actions
+   Water/sanitation Health
+National
+            Health
+National; community
+            Water/sanitation Health
+National
+            Health Water/sanitation
+National; community
+Universal health coverage
+            Health Water/sanitation
+National
+            Water/sanitation
+National; community
+            Environment Industry Water/sanitation
+Community; national
+          1. Develop or update government-led multisectoral sanitation policies, planning processes and coordination (38).
+2. Sustain health sector engagement in sanitation through dedicated staffing and resourcing, and through action on sanitation in health services (38).
+3. Develop or update national guidelines, standards and regulations, to ensure sanitation systems and services protect public health (38), to include the following elements:
+• safe management at each step of the sanitation chain, for
+example through minimum requirements for toilets and pit latrines or septic tanks, SOPs for safe emptying and transport of faecal waste, and health based standards for faecal sludge and wastewater treatment and disposal or use in agriculture and aquaculture (39);
+• risk management and management along the entire sanitation chain – see Sanitation safety planning (40);
+• occupational health and safety for sanitation workers (36).
+4. Include sanitation in health policies where sanitation is needed for primary prevention, to enable coordination and integration into health programmes (38). For example, by including sanitation promotion in training curricula of health professionals, in job descriptions and local budgets.
+5. Conduct national risk assessment using health surveillance data to target sanitation services to settings with high disease burden, and to support outbreak prevention efforts. This process involves standardized data gathering and a stakeholder meeting, possibly as part of a joint sector review (38).
+6. Implement local risk assessment and management to prioritize improvements and manage system performance.
+Sanitation safety planning involves an assessment of the sanitation system, identification of hazardous events and assessment of control measures, development of an incremental improvement plan, and monitoring and evaluation. The WHO manual Sanitation safety planning provides specific training and support (40).
+7. Address demand and supply of sanitation facilities and services concurrently by enabling marketing of sanitation services and developing sanitation services and business models (38).
+Approaches to generate demand may include social marketing or incentives such as subsidies, etc.
+Regulation
+Information, education and communication
+Regulation
+                  Regulation
+Assessment and surveillance
+Assessment and surveillance; other management and control
+Taxes and subsidies
+                        14
+
+Information, education and communication
+Information, education and communication
+Information, education and communication
+Information, education and communication
+Information, education and communication
+3. WASH
+        Guidance
+Sector principally involved in planning/ implementation
+Level of implementation
+Instruments
+       Water/sanitation Health Environment
+National; community
+ Awareness raising and capacity building
+   Health Water/sanitation
+Community; national Universal health coverage
+            Health Water/sanitation Environment
+Community: schools/child- care settings; health care; workplace Universal health coverage
+            Health Water/sanitation Environment
+Community Universal health coverage
+            Water/sanitation Environment Health
+Community; national Universal health coverage
+            Water/sanitation Environment Health
+Community; national Universal health coverage
+          8. Design, implement and monitor locally appropriate and safe systems along the entire sanitation chain (38).
+Examples include the following.
+• Toilets should be made of durable material that can be easily
+cleaned, provide safety and privacy, with facilities for anal
+cleansing, hand washing and menstrual hygiene management.
+• Ensure safe containment of faecal waste through adequate
+design, operation and maintenance.
+• Use motorized emptying and transport over manual emptying
+and transport wherever possible, implement SOPs and health
+and safety measures for workers.
+• Ensure adequate treatment of faecal waste before end use/
+disposal.
+• Ensure multi-barrier approach is used along the entire service
+chain.
+For more information, Annex 1 of WHO guidelines on sanitation and health contains sanitation system fact sheets which describe applicability of different sanitation systems to a given context, with consideration on design, operation and maintenance and mechanisms for protecting public health (38).
+9. Perform context-specific behaviour change programming based on understanding sanitation behaviours and their determinants (38).
+10. Promote access to safe toilets in schools (26), health care facilities (27), workplaces and public places.
+11. Promote shared and public toilet facilities that safely contain excreta as an incremental step when individual household facilities are not feasible (38).
+12. Provide training and technical support to community
+health workers/environmental health officers for inspection of sanitary facilities and supporting households in improving their sanitation facilities (38). See SI forms and sanitation system fact sheets (41, 42).
+13. Raise awareness about climate adaptation options for sanitation systems, such as selecting sites less prone to
+floods, taking measures during/after extreme weather events, constructing simplified sewer networks to withstand flooding and flotation, etc. (38) (43). Also see “Sanitation safety: Adaptation and increased resilience” section in Chapter 7. Climate change.
+Infrastructure, technology and built environment
+                               15
+
+Compendium of WHO and other UN guidance on health and environment
+        Guidance
+Sector principally involved in planning/ implementation
+Level of implementation
+Instruments
+       Education Water/sanitation Environment Health
+Community; schools/child- care settings Universal health coverage
+            Water/sanitation Environment Health
+Community Universal health coverage
+            Health Environment
+Community; national Universal health coverage
+            Health Environment
+Community; national Universal health coverage
+            Health Environment
+Community; national Universal health coverage
+            Health Environment
+Community; national Universal health coverage
+            Health Environment
+Community: national Universal health coverage
+          14. Involve children at home and in school in promotion of safe sanitation (44).
+15. Involve and support all community members in the design, construction and use of sanitation facilities (44).
+16. Promote avoiding open defecation and adopting safe sanitation facilities (38).
+17. Promote safe disposal of child faeces, that is, into latrines (38).
+18. Promote washing hands with soap at critical times, such as after defecation, after child cleaning and before preparing food (38).
+19. Promote maintaining functional and clean toilets (38).
+20. Promote safe management of domestic animals and their excreta (38).
+Selected tools
+WHO 2018: Sanitation system fact sheets: Annex 1 of the Guidelines for sanitation and health (38) WHO 2006: Guidelines for the safe use of wastewater, excreta and greywater; volumes 1–4 (45) WHO 2020: Sanitary inspection forms for sanitary systems, sanitation system fact sheets (41, 42)
+Information, education and communication
+Information, education and communication
+Information, education and communication
+Information, education and communication
+Information, education and communication
+Information, education and communication
+Information, education and communication
+                                               WHO/Neglected Tropical Disease NGO Network 2020: WASH and health working together: a ‘how to’ guide for NTD programmes (30)
+This is a toolkit to address WASH and neglected tropical diseases.
+ 16
+
+3. WASH
+    3.4 Personal hygiene
+Because of its proven health benefits, hand washing with soap and water (46) is usually the top priority for both health promotion and hygiene monitoring.
+This section focuses on individual hygiene behaviours in different settings and covers mainly hand hygiene but also other aspects of personal hygiene such as face washing. It does not address hygiene in health care facilities, which is included in the section on health care facilities (section 11.4 Health care facilities).
+Overview
+Hygiene is multi-faceted and comprises many behaviours, including hand- and face washing, menstrual hygiene and food hygiene. Hand washing with soap at crucial events such as after visiting the toilet, defecating or before preparing food was estimated to be a poorly practised behaviour globally (47).
+Approximately 2.3 billion people lacked functioning hand-washing facilities with water and soap in 2020 (7). Inadequate hygiene behaviours are an important risk factor for infectious diseases like diarrhoea, soil-transmitted helminth infections, respiratory diseases and contribute to malnutrition and other diseases; they were estimated to have caused 165 000 deaths from diarrhoea alone in 2016 (3, 8).
+Direct assessment of hand-washing practices is usually considered too resource-intensive, especially at national level. Personal hygiene practices can be estimated by the proportion of people with access to hand-washing facilities with soap and water on premises (basic hand-washing facilities). Access
+to basic hand-washing facilities is usually assessed in large and nationally representative household surveys. Survey data on access to hand-washing facilities are also available for individual countries for schools and health care facilities (1).
+Progress related to hygiene and improved hand washing with soap is also assessed within the SDGs (9). SDG 6 includes a target of adequate and equitable sanitation and hygiene for all. SDG indicators specifically mentioning hygiene or hand washing with soap include the following.
+• SDG indicator 3.9.2: Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH)).
+• SDG indicator 4.A.1: Proportion of schools with access to: [...] (e) basic drinking-water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions).
+• SDG indicator 6.2.1: Proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water.
+Everyone should have access to basic hygiene facilities at home, at school, at the workplace and in public buildings (38). Hand washing should be practised with soap and water and at crucial events such as after visiting the toilet, defecating or before preparing food (38, 48).
+      Who has inadequate access to basic hygiene facilities in my country?
+ What do we want to achieve in terms of personal hygiene?
+   17
+
+Compendium of WHO and other UN guidance on health and environment
+        Guidance
+Sector principally involved in planning/ implementation
+Level of implementation
+Instruments
+    Policies and actions
+   Health
+National; community
+Universal health coverage
+            Health Industry
+National; community
+            Health
+Community; national
+            Awareness raising and capacity building
+Health Construction
+Community; national
+   Health Education
+Community; national
+Universal health coverage
+            Health Education
+Community; national
+Universal health coverage
+            Health Food
+Community; national
+Universal health coverage
+            Health
+Community; national
+Universal health coverage
+            Health
+Community; schools/child- care settings
+Universal health coverage
+           1. Support the installation of hand-washing facilities, especially in homes and public places such as schools and health care facilities (see also section 11.4 Health care facilities), bus and train stations and private commercial buildings (38, 49).
+Hand-washing facilities with soap and water should be available close to (usually within 5 m) of sanitation facilities (26, 38).
+2. Enforce hand-washing facilities in public places such as food establishments and markets, and include them in routine inspection and monitoring schemes (38).
+3. Make soap and water available to households, institutions and in public places (26, 38).
+4. Support the inclusion of culturally- and context-appropriate facilities for hand washing, anal cleansing and menstrual hygiene management into toilet design (38).
+5. Promote regular hand hygiene outside of private homes such as when entering public buildings or public transport (49).
+6. Promote hand washing with soap after defecation and any potential contact with faeces (e.g. child faeces) (38).
+7. Promote hand washing with soap before handling food and during food preparation (48).
+8. Promote face washing for the prevention of certain infectious diseases such as trachoma (50).
+9. Promote safe hygiene behaviours such as hand washing with soap in communities, institutions such as schools and in public places (26, 38).
+Infrastructure, technology and built environment
+Regulation; assessment and surveillance
+Infrastructure, technology and built environment
+Infrastructure, technology and built environment
+Information, education and communication
+Information, education and communication
+Information, education and communication
+Information, education and communication
+Information, education and communication
+                                                 18
+
+communication
+3. WASH
+        Guidance
+Sector principally involved in planning/ implementation
+Level of implementation
+Instruments
+       Health
+Community; national
+Universal health coverage
+          10. Promote the installation and availability of hand-washing Information, facilities with soap and water (38). education and
+       Selected tools
+WHO 2020: Awareness-raising and educational material on how to hand-wash, how to hand-rub and when and how to perform hand hygiene in health care settings (51)
+WHO 2009: Water, sanitation and hygiene standards for schools in low-cost settings (26) This includes an assessment checklist for WASH in schools.
+WHO 2006: Five keys to safer food manual (48)
+The manual provides key messages, resources and training materials related to food hygiene.
+References
+1. UNICEF, WHO. WHO/UNICEF Joint Monitoring Programme for water supply, sanitation and hygiene (JMP). New York: UNICEF, World Health Organization; 2020 (https://washdata.org/monitoring, accessed 5 May 2020).
+2. Prüss A, Kay D, Fewtrell L, Bartram J. Estimating the burden of disease from water, sanitation, and hygiene at a
+global level. Environmental health perspectives. 2002;110:537–42. doi:10.1289/ehp.110-1240845.
+3. Prüss-Ustün A, Wolf J, Bartram J, Clasen T, Cumming O, Freeman MC et al. Burden of disease from inadequate
+water, sanitation and hygiene for selected adverse health outcomes: An updated analysis with a focus on low-
+and middle-income countries. Int J Hyg Environ Health. 2019;222:765–77. doi: 10.1016/j.ijheh.2019.05.004.
+4. Ngure FM, Reid BM, Humphrey JH, Mbuya MN, Pelto G, Stoltzfus RJ. Water, sanitation, and hygiene (WASH),
+environmental enteropathy, nutrition, and early child development: making the links. Ann N Y Acad Sci.
+2014;1308:118–28. doi: 10.1111/nyas.12330.
+5. Brown J, Cairncross S, Ensink JH. Water, sanitation, hygiene and enteric infections in children. Arch Dis Child.
+2013;98:629–34. doi: 10.1136/archdischild-2011-301528.
+6. Drinking water fact sheet. World Health Organization; 2019 (https://www.who.int/news-room/fact-sheets/
+detail/drinking-water, accessed 10 March 2020).
+7. WHO, UNICEF. Progress on household drinking water, sanitation and hygiene 2000-2020: Five years into
+the SDGs. Geneva: World Health Organization, United Nations Children’s Fund; 2021 (https://washdata.org/ sites/default/files/2021-06/jmp-2021-wash-households-LAUNCH-VERSION.pdf https://www.who.int/data/gho/data/indicators/indicator-details/GHO/number-of-diarrhoea-deaths-from- inadequate-water, accessed 2 July 2021).
+8. Global Health Observatory - Data Repository. Geneva: World Health Organization; 2020 (https://apps.who.int/ gho/data/node.main.122?lang=en, accessed 29 May 2020).
+9. Monitoring health for the SDGs. World Health Organization; 2019 (http://apps.who.int/gho/data/node.sdg, accessed 3 October 2019).
+10. Water safety planning: a roadmap to supporting resources. Geneva: World Health Organization; 2017 (https:// www.who.int/water_sanitation_health/publications/wsp-roadmap.pdf?ua=1, accessed 27 March 2020).
+11. Developing drinking-water quality regulations and standards. Geneva: World Health Organization; 2018 (https://apps.who.int/iris/handle/10665/272969, accessed 14 June 2021).
+12. WHO, International Water Association. Protecting groundwater for health: Managing the quality of drinking- water sources. United Kingdom: IWA; 2006 (https://apps.who.int/iris/handle/10665/43186, accessed
+14 June 2021).
+13. Water safety plan manual (WSP manual): Step-by-step risk management for drinking-water suppliers. Geneva: World Health Organization; 2009 (https://apps.who.int/iris/handle/10665/75141, accessed 14 June 2021).
+14. Water safety planning for small community water supplies. Geneva: World Health Organization; 2012 (https:// apps.who.int/iris/handle/10665/75145, accessed 14 June 2021).
+                   19
+
+Compendium of WHO and other UN guidance on health and environment
+15. A guide to equitable water safety planning. Ensuring no one is left behind. Geneva: World Health Organization; 2019 (https://www.who.int/publications/i/item/9789241515313, accessed 14 June 2021).
+16. Guidelines for drinking-water quality, 2nd edition: Volume 3 - Surveillance and control of community supplies. Geneva: World Health Organization; 1997 (https://apps.who.int/iris/handle/10665/42002, accessed
+14 June 2021).
+17. WHO, IWA. A practical guide to auditing water safety plans. Geneva: World Health Organization; 2015 (http:// apps.who.int/iris/handle/10665/204280, accessed 14 June 2021).
+18. Supporting publications to the Guidelines for drinking-water quality. Geneva: World Health Organization; 2020 (https://www.who.int/publications/i/item/9789241549950 accessed 15 June 2021).
+19. Microplastics in drinking-water. Geneva: World Health Organization; 2019 (https://apps.who.int/iris/ handle/10665/326499).
+20. Management of radioactivity in drinking-water. Geneva: World Health Organization; 2018 (https://www.who. int/publications-detail/management-of-radioactivity-in-drinking-water, accessed 4 June 2021).
+21. IAEA. Criteria for use in preparedness and response for a nuclear or radiological emergency. IAEA Safety Standards Series No. GSG-2. Vienna: International Atomic Energy Agency; 2011 (http://www-pub.iaea.org/ MTCD/publications/PDF/Pub1467_web.pdf).
+22. IAEA. Preparedness and response for a nuclear or radiological emergency. IAEA Safety Standards Series No. GSR Part 7. Vienna: International Atomic Energy Agency; 2015 (http://www-pub.iaea.org/MTCD/publications/ PDF/P_1708_web.pdf).
+23. Water, sanitation, hygiene and health. A primer for health professionals. Geneva: World Health Organization; 2019 (https://apps.who.int/iris/handle/10665/330100, accessed 14 June 2021).
+24. New sanitary inspection packages for drinking-water. Geneva: World Health Organization; 2020 (https:// wsportal.org/news-item/new-sanitary-inspection-packages-for-drinking-water/, accessed 15 June 2021).
+25. Safely managed drinking-water. Thematic report on drinking-water 2017. Geneva: World Health Organization; 2017 (https://apps.who.int/iris/handle/10665/325897, accessed 14 June 2021).
+26. Water, sanitation and hygiene standards for schools in low-cost settings. Geneva: World Health Organization; 2009 (https://www.who.int/water_sanitation_health/publications/wash_standards_school.pdf, accessed 14 June 2021).
+27. Essential environmental health standards in health care. Geneva: World Health Organization; 2008 (https:// apps.who.int/iris/handle/10665/43767, accessed 14 June 2021).
+28. Evaluating household water treatment options. Heath-based targets and microbiological performance specifications. Geneva: World Health Organization; 2011 (https://apps.who.int/iris/handle/10665/44693, accessed 15 January 2021).
+29. Toolkit for monitoring and evaluating household water treatment and safe storage. Geneva: World Health Organization; 2012 (https://apps.who.int/iris/handle/10665/76568, accessed 14 June 2021).
+30. WHO, NNN. WASH and health working together: a ‘how to’ guide for NTD programmes. World Health Organization; 2020 (http://apps.who.int/wash-health-toolkit/disclaimer/, accessed 27 June 2021).
+31. Thirsting for a future: water and children in a changing climate. New York (NY): United Nations Children’s Fund; 2017 (https://www.unicef.org/media/49621/file/UNICEF_Thirsting_for_a_Future_ENG.pdf, accessed 7 June 2021).
+32. Monitoring water and sanitation in the 2030 Agenda for Sustainable Development. Integrated monitoring for SDG 6. New York: UN Water; 2020 (https://www.unwater.org/publications/monitoring-water-and-sanitation- in-the-2030-agenda-for-sustainable-development/, accessed 22 July 2021).
+33. WHO guidelines on recreational water quality: volume 1: coastal and fresh waters. Geneva: World Health Organization; 2021 (https://www.who.int/publications/i/item/9789241580472, accessed 16 July 2021).
+34. Guidelines for safe recreational waters. Volume 2 - Swimming pools and similar recreational-water environments. Geneva: World Health Organization; 2006 (https://apps.who.int/iris/handle/10665/43336, accessed
+35. Bartram J, Rees G. Monitoring bathing waters: a practical guide to the design and implementation of assessments and monitoring programmes. London and New York: Published on behalf of the World Health Organization, the Commission of the European Communities and the United States Environmental Protection Agency by: F & FN Spon; 2000 (https://www.who.int/water_sanitation_health/bathing/monbathwat.pdf, accessed 22 July 2021).
+36. World Bank, WHO, ILO, Water Aid. Health, Safety and Dignity of Sanitation Workers. An Initial Assessment: International Bank for Reconstruction and Development; 2019 (https://www.who.int/fr/publications/m/item/ health-safety-and-dignity-of-sanitation-workers, accessed 15 June 2021).
+37. Cumming O, Arnold BF, Ban R, Clasen T, Esteves Mills J, Freeman MC et al. The implications of three major new trials for the effect of water, sanitation and hygiene on childhood diarrhea and stunting: a consensus statement. BMC Medicine. 2019;17:173. doi: 10.1186/s12916-019-1410-x.
+38. Guidelines on sanitation and health. Geneva: World Health Organization; 2018 (https://apps.who.int/iris/ handle/10665/274939, accessed 15 June 2021).
+39. Guidelines for the safe use of wastewater, excreta and greywater. Geneva: World Health Organization; 2020 (https://www.who.int/publications/i/item/9241546824, accessed 15 June 2021).
+40. Sanitation safety planning. Manual for safe use and disposal of wastewater, greywater and excreta. Geneva: World Health Organization; 2015 (http://apps.who.int/iris/handle/10665/171753, accessed 15 June 2021).
+                                   20
+
+41. Sanitary inspections for sanitation systems. Geneva: World Health Organization; 2020 (https://www.who.int/ teams/environment-climate-change-and-health/water-sanitation-and-health/sanitation-safety/sanitation- inspection-packages, accessed 15 June 2021).
+42. Sanitation system fact sheets Geneva: World Health Organization; 2020 (https://www.who.int/teams/ environment-climate-change-and-health/water-sanitation-and-health/sanitation-safety/sanitation- inspection-packages, accessed 26 February 2020).
+43. Discussion paper: Climate, sanitation and health. Geneva: World Health Organization; 2019 (https://www.who. int/water_sanitation_health/sanitation-waste/sanitation/sanitation-and-climate-change20190813.pdf).
+44. WHO, UNEP. Healthy environments for healthy children: key messages for action2010 (https://apps.who.int/ iris/handle/10665/44381).
+45. Guidelines for the safe use of wastewater, excreta and greywater. Geneva: World Health Organization; 2006 (https://apps.who.int/iris/handle/10665/78265, accessed 15 January 2021).
+46. Wolf J, Hunter PR, Freeman MC, Cumming O, Clasen T, Bartram J et al. Impact of drinking water, sanitation and handwashing with soap on childhood diarrhoeal disease: updated meta-analysis and meta-regression. Trop Med Int Health. 2018. doi: 10.1111/tmi.13051.
+47. Wolf J, Johnston R, Freeman MC, Ram PK, Slaymaker T, Laurenz E et al. Handwashing with soap after potential faecal contact: global, regional and country estimates. Int J Epidemiol. 2019;48:1204–18. doi: 10.1093/ije/ dyy253.
+48. Five keys to safer food manual. Geneva: World Health Organization; 2006 (https://apps.who.int/iris/ handle/10665/43546, accessed 16 April 2020).
+49. Interim recommendations on obligatory hand hygiene against transmission of COVID-19. Geneva: World Health Organization; 2020 (https://www.who.int/publications/m/item/interim-recommendations-on-obligatory- hand-hygiene-against-transmission-of-covid-19, accessed 15 January 2021).
+50. Trachoma. Fact sheet. Geneva: World Health Organization; 2020 (https://www.who.int/news-room/fact- sheets/detail/trachoma, accessed 17 April 2020).
+51. My 5 Moments for Hand Hygiene. Geneva: World Health Organization; 2020 (https://www.who.int/campaigns/ world-hand-hygiene-day, accessed 5 June 2021).
+3. WASH
+                   21
+
+World Health Organization
+Department of Environment, Climate Change and Health Division of Universal Health Coverage / Healthier Populations 20, Avenue Appia
+CH-1211 Geneva 27
+Switzerland
+www.who.int/teams/environment-climate-change-and-health
+ 
